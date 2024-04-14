@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cstrike", "cstrike\cstrike.vcxproj", "{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Developer|x64 = Developer|x64
+		Distrib|x64 = Distrib|x64
+		Publish|x64 = Publish|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Debug|x64.ActiveCfg = Debug|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Debug|x64.Build.0 = Debug|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Developer|x64.ActiveCfg = Developer|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Developer|x64.Build.0 = Developer|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Distrib|x64.ActiveCfg = Distrib|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Distrib|x64.Build.0 = Distrib|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Publish|x64.ActiveCfg = Publish|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Publish|x64.Build.0 = Publish|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Release|x64.ActiveCfg = Release|x64
+		{DAC639DD-46A6-B878-4FBE-434FBB1C1FDA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA324F3-F438-4261-89D4-5AF13CD1FA32}
+	EndGlobalSection
+EndGlobal
