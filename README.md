@@ -21,7 +21,7 @@
     - CHAMS
     - ITEM ESP
     - FLAGS
-    - Fov changer
+    - FOV changer
  + Misc:
     - Night mode
     - Sky box changer
@@ -33,6 +33,7 @@
     - Inventory changer with item dump
     - In game skin changer
     - Config tab
+    - AND MORE
 
 # TO-DO
  + Fix the offsets and signatures.
