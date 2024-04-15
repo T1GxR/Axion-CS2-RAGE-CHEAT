@@ -38,6 +38,6 @@
 
 # TO-DO
  + Fix the offsets and signatures.
- + Make the rage cheat better, it misses a lot and its preety bad.
+ + Improve the rage cheat, its not amazing but its decent.
  + Fix other errors.
    
