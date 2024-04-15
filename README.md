@@ -16,7 +16,7 @@
    - Rapid Fire
    - Anti Aim (Jitter)
    - Auto wall
-   - Important: Default option from the rage tab doesn't do anything, you have to configure all the weapon tabs and select targets.
+   - Important: Default option from the rage tab doesn't do anything, you have to configure all the weapon tabs and select the body part where to shoot.
  + Visual:
     - ESP (BOX, SKELETON AND MORE)
     - CHAMS
