@@ -33,6 +33,7 @@
     - Inventory changer with item dump
     - In game skin changer
     - Config tab
+    - Plant bomb anywhere (might work only on local games)
     - AND MORE
 
 # TO-DO
