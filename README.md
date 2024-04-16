@@ -34,7 +34,7 @@
     - Inventory changer with item dump
     - In game skin changer
     - Config tab
-    - Plant bomb anywhere (might work only on local games)
+    - Plant bomb anywhere (only works at the beginning of the round for a second only)
     - AND MORE
 
 # TO-DO
