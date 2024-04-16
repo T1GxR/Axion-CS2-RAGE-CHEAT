@@ -2,6 +2,7 @@
  + The source code of AXION CS2 internal rage cheat. 
  + I decided to make it public beacause it has been sold for 75$ to a russian and then leaked on the internet.
  + It has some great features but they work preety bad, it needs a lot of updates.
+ + The cheat is not safe to use so only use it on non prime accounts!
  + If you have any question you can contact me on [Telegram](https://t.me/T1GXR) or [Discord](https://discord.com/users/831108234298261525)
 
 # PREVIEW
