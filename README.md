@@ -2,7 +2,7 @@
  + The source code of AXION CS2 internal rage cheat. 
  + I decided to make it public beacause it has been sold for 75$ to a russian and then leaked on the internet.
  + It has some great features but they work preety bad, it needs a lot of updates.
- + The cheat is not safe to use so only use it on non prime accounts!
+ + The cheat can get you VAC banned so only use it at your own risk (better on non prime accounts).
  + If you have any question you can contact me on [Telegram](https://t.me/T1GXR) or [Discord](https://discord.com/users/831108234298261525)
 
 # PREVIEW
@@ -38,7 +38,6 @@
     - AND MORE
 
 # TO-DO
- + Fix the offsets and signatures.
- + Improve the rage tab and some miscellaneous features because they were created to manipulate the game server and they only work on local games/practice games. Basically on higher ping games the rage is completely useless, as well as bhop which makes the character fly while holding space. Most likely all those bugs can all be fixed by adding a resolver to the cheat.
- + Fix other errors.
+ + Fix the offsets, signatures and other errors.
+ + Improve the rage tab and some miscellaneous features because they were created to manipulate the game server and they only work on local games/practice games. Basically on higher ping games, the rage is completely useless, as well as bhop which makes the character fly while holding space. Most likely all those bugs can all be fixed by adding a resolver to the cheat.
    
