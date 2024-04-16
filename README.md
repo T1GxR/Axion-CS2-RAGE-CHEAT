@@ -16,7 +16,6 @@
    - Rapid Fire
    - Anti Aim (Jitter)
    - Auto wall
-   - Important: Default option from the rage tab doesn't do anything, you have to configure all the weapon tabs and select the body part where to shoot.
  + Visual:
     - ESP (BOX, SKELETON AND MORE)
     - CHAMS
@@ -39,6 +38,6 @@
 
 # TO-DO
  + Fix the offsets and signatures.
- + Improve the rage cheat, its not amazing but its decent.
+ + Improve the rage tab and some miscellaneous features because they were created to manipulate the game server and they only work on local games/practice games. Basically on higher ping games the rage is completely useless, as well as bhop which makes the character fly while holding space. Most likely all those bugs can all be fixed by adding a resolver to the cheat.
  + Fix other errors.
    
