@@ -40,5 +40,6 @@
 
 # TO-DO
  + Fix the offsets, signatures and other errors.
- + Improve the rage tab and some miscellaneous features because they were created to manipulate the game server and they only work on local games/practice games. Basically on higher ping games, the rage is completely useless, as well as bhop which makes the character fly while holding space. Most likely all those bugs can all be fixed by adding a resolver to the cheat.
+ + Improve the rage tab and some miscellaneous features because they were created to manipulate the game server and they only work on local games/practice games. Basically on higher ping games, the rage is completely useless, as well as bhop which makes the character fly while holding space. Most likely all those bugs can all be fixed if you know what to do.
+ + Some features were implemented from csgo cheats so you know why it's buggy.
    
