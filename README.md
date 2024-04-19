@@ -16,7 +16,8 @@
  + RAGE BOT:
    - Rapid Fire
    - Anti Aim (Jitter)
-   - Auto wall
+   - Multipoint
+   - PSilent
  + Visual:
     - ESP (BOX, SKELETON AND MORE)
     - CHAMS
