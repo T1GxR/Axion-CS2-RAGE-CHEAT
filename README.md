@@ -33,7 +33,7 @@
  + Other features:
     - Inventory changer with item dump
     - In game skin changer
-    - Config tab
+    - Configs tab (Path: Documents/.cs2/settings)
     - Plant bomb anywhere (only works at the beginning of the round for a second only)
     - AND MORE
 
