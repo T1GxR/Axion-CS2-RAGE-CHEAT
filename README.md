@@ -1,5 +1,6 @@
 # Axion-CS2-RAGE-CHEAT
- + The source code of AXION CS2 internal rage cheat. 
+ + The source code of AXION CS2 internal rage cheat.
+ + It's made on asphyxia base (especially the schemas) so it won't be difficult to update it!
  + I decided to make it public beacause it has been sold for 75$ and then leaked on the internet.
  + It has some great features but it can't be used for hvh because its preety buggy.
  + The cheat might get you VAC banned so only use it at your own risk (better on non prime accounts).
