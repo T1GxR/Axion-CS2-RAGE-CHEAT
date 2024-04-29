@@ -8,6 +8,7 @@
 
 # Status: Needs update!
 I don't have time to work on it anymore because of lack of time and other personal projects but I'll let it for the community.
+
 If you are trying to fix it, you have to:
 - Update the schema (take it from asphyxia because it's the same)
 - Update the signatures (You can find them in hooks.cpp/hooks.h).
