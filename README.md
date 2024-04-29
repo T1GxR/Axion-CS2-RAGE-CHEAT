@@ -4,7 +4,6 @@
  + I decided to make it public beacause it has been sold for 75$ and then leaked on the internet.
  + It has some great features but it can't be used for hvh because its preety buggy.
  + The cheat might get you VAC banned so only use it at your own risk (better on non prime accounts).
- + If you have any question you can contact me on [Telegram](https://t.me/T1GXR) or [Discord](https://discord.com/users/831108234298261525)
 
 # Status: Needs update!
 I don't have time to work on it anymore because of lack of time and other personal projects but I'll let it for the community.
