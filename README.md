@@ -7,9 +7,8 @@
  + If you have any question you can contact me on [Telegram](https://t.me/T1GXR) or [Discord](https://discord.com/users/831108234298261525)
 
 # Status: Needs update!
-I don't have time to work on it anymore because of other personal projects but I'll let it for the community to fix it.
-Asking how to fix it?
-You have to:
+I don't have time to work on it anymore because of lack of time and other personal projects but I'll let it for the community to fix it.
+To fix it, you have to:
 - Update the schema (take it from asphyxia because it's the same)
 - Update the signatures (You can find them in hooks.cpp/hooks.h).
 - Make sure you build it on publish and not on release. (If you build on release you will get a lot of errors)
