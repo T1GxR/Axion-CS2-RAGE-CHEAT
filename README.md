@@ -6,6 +6,14 @@
  + The cheat might get you VAC banned so only use it at your own risk (better on non prime accounts).
  + If you have any question you can contact me on [Telegram](https://t.me/T1GXR) or [Discord](https://discord.com/users/831108234298261525)
 
+# Status: Needs update!
+I don't have time to work on it anymore because of other personal projects but I'll let it for the community to fix it.
+How to fix it?
+- Update the schema (take it from asphyxia because it's the same)
+- Update the signatures (You can find them in hooks.cpp/hooks.h).
+- Make sure you build it on publish and not on release. (If you build on release you will get a lot of errors)
+- Make sure you include everything required in the project settings!
+
 # PREVIEW
 ![Screenshot 2024-04-14 175107](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/df318ac7-1723-43c0-bc00-d5900812df52)
 ![Screenshot 2024-04-14 175057](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/2496ee46-667e-47b6-b1c7-8c97c18f88bf)
